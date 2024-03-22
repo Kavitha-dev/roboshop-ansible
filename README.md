@@ -1,2 +1,2 @@
 # roboshop-ansible
-Automate roboshop project with Ansible. 
+Automate the roboshop project with Ansible. 
